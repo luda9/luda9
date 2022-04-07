@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @luda9
+- 👀 I’m interested in programming and videogames
+- 🌱 I’m currently learning HTML, CSS and Javascript
+- 📫 ldms99@hotmail.com
