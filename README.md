@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luda</h1>
 <h3 align="center">A passionate Full Stack developer from Mexico</h3>
 
-- 🔭 I’m currently working on [Weappther]
+- 🔭 I’m currently working on **Weappther**
 
 - 🌱 I’m currently learning **React**
 
