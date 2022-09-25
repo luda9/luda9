@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Weappther**
 
-- 🖥 My **Portfolio** [https://luda9.com/]
+- 🖥 My [**Portfolio**](https://luda9.com/)
 
 - 🌱 I’m currently learning **React**
 
