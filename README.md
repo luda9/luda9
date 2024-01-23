@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ludadev9@gmail.com**
 
-- 📄 My CV [https://drive.google.com/file/d/1QVEcOGzvxrKEtmQw5YEq7UDxH3rtbRVE/view?usp=sharing](https://drive.google.com/file/d/1QVEcOGzvxrKEtmQw5YEq7UDxH3rtbRVE/view?usp=sharing)
+- 📄 My [CV](https://drive.google.com/file/d/1QVEcOGzvxrKEtmQw5YEq7UDxH3rtbRVE/view?usp=sharing)
 
 - ⚡ Fun fact **I'm a gamer 🤓**
 
